@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Hn6JmrMJTIwWQLPR1nVwYOZdDHjFmHFSnodrcXkHnyvdwIZK7+DtuGdj9DsKtpVDFS1l8ulRhOe9Qw53+G3hQ==",
+  "dgSpecHash": "2rg4wunJ13FTcaavt0mxR3qOWD5wrbXptoTF+ANEqPEjrXVq7/8SLgbIUaeFPNi8vLhowmILvsUwP/m0p1NJug==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\Persistence.csproj",
+  "projectFilePath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.2\\microsoft.data.sqlite.core.5.0.2.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

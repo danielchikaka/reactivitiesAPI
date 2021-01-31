@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BkO25L3d0B27JmQ+lrylcx1GY+SzRHNdBrzyKntc6/hMl/YldwGJ111MAEr0Qg0uszwiXekoZ5PGfhfwc4x3Lw==",
+  "dgSpecHash": "s66UDkv0B7NNQxBJ9xKMXYZ8LiboJzeps+BcCkIzaHsFXqlVxa7JIfTpBulNe//ac2v34WBq+5TSsYZizJERuQ==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hOPfrcCXYvvWTfcSeKZKbyZ1Ah23sJImHQphTTXk3FvLG/ylXUZrGSpn9TKzKI29pGGE1vJWj1q2j0lX0w0KsA==",
+  "dgSpecHash": "tADaWdSqhUjNCmYaoO28lPK5S1ViYc2GPLQWEZmfIrFIa/bNM4SfNcbirrLYHX/iHjaubIDxEuW1H2hKEghogQ==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\fluentvalidation\\9.5.0\\fluentvalidation.9.5.0.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.0\\fluentvalidation.aspnetcore.9.5.0.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.0\\fluentvalidation.dependencyinjectionextensions.9.5.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.2\\microsoft.data.sqlite.core.5.0.2.nupkg.sha512",

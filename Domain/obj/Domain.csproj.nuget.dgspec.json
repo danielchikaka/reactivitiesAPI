@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj": {}
+    "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj": {
+    "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\daniel.chikaka\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\obj\\",
+        "outputPath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniel.chikaka\\AppData\\Roaming\\NuGet\\NuGet.Config",

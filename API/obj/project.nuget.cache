@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zUjsJ7GTPPZl6QyKqU4iatW3Nisf5Ip6pC1ygFoQLA6zOeb2otWksUaZAF18ElZI5aPoB2rnvbooGA5/v8f6kg==",
+  "dgSpecHash": "WoVSIK4mQ+ggTQ27y1mwnEwsUATMbjX2+YKKh0x4JTyK9KQkIT9pEh4xaWfYqDz4xSJXQ+tddDVHPv3tDf4Fhw==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\fluentvalidation\\9.5.0\\fluentvalidation.9.5.0.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.0\\fluentvalidation.aspnetcore.9.5.0.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.0\\fluentvalidation.dependencyinjectionextensions.9.5.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
