@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WoVSIK4mQ+ggTQ27y1mwnEwsUATMbjX2+YKKh0x4JTyK9KQkIT9pEh4xaWfYqDz4xSJXQ+tddDVHPv3tDf4Fhw==",
+  "dgSpecHash": "LIyio1DPYk8YSZuuBzXKmg372wdrHJj+67TRDiG+I8QE69lbelOZQ+sjqvDo+Mnj+yMvtTX/FlyUtFCiBng0Yw==",
   "success": true,
-  "projectFilePath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\fluentvalidation\\9.5.0\\fluentvalidation.9.5.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.0\\fluentvalidation.aspnetcore.9.5.0.nupkg.sha512",
@@ -10,6 +10,11 @@
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.2\\microsoft.aspnetcore.authentication.jwtbearer.5.0.2.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.2\\microsoft.aspnetcore.cryptography.internal.5.0.2.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.2\\microsoft.aspnetcore.cryptography.keyderivation.5.0.2.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\5.0.2\\microsoft.aspnetcore.identity.entityframeworkcore.5.0.2.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.2\\microsoft.aspnetcore.identity.ui.5.0.2.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.2\\microsoft.data.sqlite.core.5.0.2.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
@@ -27,10 +32,19 @@
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0\\microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\5.0.2\\microsoft.extensions.fileproviders.embedded.5.0.2.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.extensions.identity.core\\5.0.2\\microsoft.extensions.identity.core.5.0.2.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.extensions.identity.stores\\5.0.2\\microsoft.extensions.identity.stores.5.0.2.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
@@ -43,7 +57,9 @@
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\daniel.chikaka\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\daniel.chikaka\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

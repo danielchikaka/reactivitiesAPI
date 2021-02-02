@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Application\\Application.csproj": {}
+    "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Application\\Application.csproj": {}
   },
   "projects": {
-    "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Application\\Application.csproj": {
+    "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\daniel.chikaka\\.nuget\\packages\\",
-        "outputPath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Application\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniel.chikaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj"
               },
-              "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\Persistence.csproj"
+              "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\daniel.chikaka\\.nuget\\packages\\",
-        "outputPath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniel.chikaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,6 +110,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -129,14 +135,14 @@
         }
       }
     },
-    "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\daniel.chikaka\\.nuget\\packages\\",
-        "outputPath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniel.chikaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -153,8 +159,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\012021\\Personal\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
