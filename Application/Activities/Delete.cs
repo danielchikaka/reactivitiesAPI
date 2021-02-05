@@ -27,7 +27,7 @@ namespace Application.Activities
             {
                 var activity = await _context.Activities.FindAsync(request.Id);
                 if (activity == null)
-                    throw new RestException(HttpStatusCode.NotFound, new {activity = "Not found"});
+                     throw new RestException(HttpStatusCode.NotFound, new { message = "Not found", errorCode = 404 });
                 _context.Remove(activity);
                 
                 var success = await _context.SaveChangesAsync() > 0;
