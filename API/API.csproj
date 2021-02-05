@@ -1,16 +1,17 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk.Web">
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <UserSecretsId>3a7ee370-b362-45ea-809d-a0201116740b</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.2" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.2" />
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.2"/>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.2"/>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.2"/>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.2"/>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Application\Application.csproj" />
-    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+    <ProjectReference Include="..\Application\Application.csproj"/>
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj"/>
   </ItemGroup>
 </Project>
