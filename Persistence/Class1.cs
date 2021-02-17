@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Infrastructure
+namespace Persistence
 {
     public class Class1
     {
